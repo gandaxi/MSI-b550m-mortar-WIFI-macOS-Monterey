@@ -1,4 +1,14 @@
-MAG-MSI--B550M-MORTAR-WIFI
+更新：
+驱动版本更新
+
+新增：
+锐龙电源管理及监控驱动（AMDRyzenCPUPowerManagement.kext、SMCAMDProcessor.kext）https://github.com/trulyspinach/SMCAMDProcessor
+
+NVME兼容驱动（NVMeFix.kext）https://github.com/acidanthera/NVMeFix
+
+2022.03.09
+==========================
+
 
 微星(MSI)MAG B550M 迫击炮 WIFI
 
