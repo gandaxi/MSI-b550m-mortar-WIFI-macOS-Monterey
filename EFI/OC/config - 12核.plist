@@ -720,7 +720,7 @@
 				<key>MinKernel</key>
 				<string>17.0.0</string>
 				<key>Replace</key>
-				<data>uAYAAAAA</data>
+				<data>uBIAAAAA</data>
 				<key>ReplaceMask</key>
 				<data>//////8A</data>
 				<key>Skip</key>
@@ -750,7 +750,7 @@
 				<key>MinKernel</key>
 				<string>19.0.0</string>
 				<key>Replace</key>
-				<data>ugYAAAAA</data>
+				<data>uhIAAAAA</data>
 				<key>ReplaceMask</key>
 				<data>//////8A</data>
 				<key>Skip</key>
@@ -780,7 +780,7 @@
 				<key>MinKernel</key>
 				<string>21.0.0</string>
 				<key>Replace</key>
-				<data>ugYAAACQ</data>
+				<data>uhIAAACQ</data>
 				<key>ReplaceMask</key>
 				<data>////////</data>
 				<key>Skip</key>
@@ -1419,13 +1419,13 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>F5K306108QXFHDDA8</string>
+			<string>F5K848501GUFHDDAD</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>CGaYyAyg</data>
+			<data>YPRFFost</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
@@ -1433,9 +1433,9 @@
 			<key>SystemProductName</key>
 			<string>MacPro6,1</string>
 			<key>SystemSerialNumber</key>
-			<string>F5KK7EZSF9VM</string>
+			<string>F5KXRPZSF9VM</string>
 			<key>SystemUUID</key>
-			<string>B7D0941C-25DC-4A21-A341-1451AE48EE0E</string>
+			<string>4D89F328-EA6D-4195-87CA-4729ADF5622D</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>

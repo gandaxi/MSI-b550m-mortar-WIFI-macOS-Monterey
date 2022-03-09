@@ -1419,23 +1419,23 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>F5K306108QXFHDDA8</string>
+			<string>F5K920207CDK3F71M</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>CGaYyAyg</data>
+			<data>IMnQT1D+</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>MacPro6,1</string>
+			<string>MacPro7,1</string>
 			<key>SystemSerialNumber</key>
-			<string>F5KK7EZSF9VM</string>
+			<string>F5KYQ0N5P7QM</string>
 			<key>SystemUUID</key>
-			<string>B7D0941C-25DC-4A21-A341-1451AE48EE0E</string>
+			<string>12273954-BA0F-4794-9591-C01113762420</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
