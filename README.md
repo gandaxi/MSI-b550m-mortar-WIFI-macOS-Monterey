@@ -1,10 +1,14 @@
 更新：
+
 驱动版本更新
 
 新增：
-锐龙电源管理及监控驱动（AMDRyzenCPUPowerManagement.kext、SMCAMDProcessor.kext）https://github.com/trulyspinach/SMCAMDProcessor
 
-NVME兼容驱动（NVMeFix.kext）https://github.com/acidanthera/NVMeFix
+匹配常见的近似机型及新A卡配置预设文件（请自行命名EFI\OC\config.plist）
+
+新增锐龙电源管理及监控驱动（AMDRyzenCPUPowerManagement.kext、SMCAMDProcessor.kext）https://github.com/trulyspinach/SMCAMDProcessor
+
+尝试NVME兼容驱动（NVMeFix.kext）提高某些NVME固态盘兼容性https://github.com/acidanthera/NVMeFix
 
 2022.03.09
 ==========================
