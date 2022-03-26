@@ -1,10 +1,14 @@
 更新：
 
-驱动版本更新2022.03.13
+更新引导OC 0.7.9 稳定版
+
+驱动版本更新2022.03.26
+
+=========================
 
 新增：
 
-匹配常见的近似机型及新A卡配置预设文件（请自行命名EFI\OC\config.plist）
+匹配同主板机型及新A卡配置预设文件（请自行修改文件名EFI\OC\config***.plist）
 
 新增锐龙电源管理及监控驱动（AMDRyzenCPUPowerManagement.kext、SMCAMDProcessor.kext）https://github.com/trulyspinach/SMCAMDProcessor
 
@@ -16,9 +20,9 @@
 
 微星(MSI)MAG B550M 迫击炮 WIFI
 
-**OpenCore : 0.7.8**
+**OpenCore : 0.7.9**
 
-**macOS ：12.1 — 12.2.1 正式版**
+**macOS ：12.1 — 12.2.1 正式版**（暂不建议升级12.3）
 
 **SMBIOS : MacPro6,1**
 
