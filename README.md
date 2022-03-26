@@ -1,3 +1,7 @@
+ [B550迫击炮WIFI](https://github.com/gandaxi/MSI-b550m-mortar-WIFI-macOS-Monterey/releases/download/B550%E6%88%96X570%E4%B8%BB%E6%9D%BF/EFI-oc0.7.9-.6-12.+b550.WIFI+R.RX.A.+.USB.zip)
+ 
+ [B450迫击炮MAX](https://github.com/gandaxi/MSI-b550m-mortar-WIFI-macOS-Monterey/releases/download/B450%E6%88%96%E4%BB%A5%E4%B8%8B%E4%B8%BB%E6%9D%BF/EFI.zip)
+
 更新：
 
 更新引导OC 0.7.9 稳定版
