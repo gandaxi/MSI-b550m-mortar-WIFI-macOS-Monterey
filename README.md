@@ -16,7 +16,7 @@ B550M定制usb端口`USBPorts.kext` 2022.04.08
 
 匹配同主板机型及新A卡配置预设文件（请自行修改文件名EFI\OC\config***.plist）
 
-新增锐龙电源管理及监控驱动[AMDRyzenCPUPowerManagement.kext、SMCAMDProcessor.kext](https://github.com/trulyspinach/SMCAMDProcessor)
+新增锐龙电源管理及监控驱动[AMDRyzenCPUPowerManagement.kext、SMCAMDProcessor.kext](https://github.com/trulyspinach/SMCAMDProcessor)**需要手动下载运行一次[AMD Power Gadget](https://github.com/trulyspinach/SMCAMDProcessor/releases/download/0.7/AMD.Power.Gadget.app.zip)AMD电源小工具
 
 尝试NVME兼容驱动[NVMeFix.kext](https://github.com/acidanthera/NVMeFix)提高某些NVME固态盘兼容性
 
