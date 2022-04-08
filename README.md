@@ -6,6 +6,8 @@
 
 更新引导OC 0.7.9 稳定版
 
+B550定制usb端口`USBPorts.kext` 2022.04.08
+
 驱动版本更新2022.03.26
 
 =========================
@@ -26,9 +28,9 @@
 
 **OpenCore : 0.7.9**
 
-**macOS ：12.1 — 12.2.1 正式版**（暂不建议升级12.3）
+**macOS ：12.1 — 12.2.1 正式版**（暂不建议升级12.3及以上）
 
-**SMBIOS : MacPro6,1**
+**SMBIOS : MacPro6,1**（RX及更新型号A卡用MacPro7,1机型提升兼容性）
 
 ### Specification
 
@@ -43,9 +45,12 @@
 
 ### What works
 
+- Ps2
+ [VoodooPS2Controller](https://github.com/RehabMan/OS-X-Voodoo-PS2-Controller) (如无需用到Ps2接口设备请酌情删除该`VoodooPS2Controller.kext`及`Kernel`该配置文件减少输入延迟，包括`UEFI→Drivers`内的`Ps2KeyboardDxe.efi`)
+
 - Audio
 
-  [AppleALC](https://github.com/acidanthera/AppleALC) ( `alcid=7 `)
+  [AppleALC](https://github.com/acidanthera/AppleALC) ( `alcid=7 `|本设置在`DeviceProperties→Add→PciRoot(0x0)/Pci(0x8,0x1)/Pci(0x0,0x4)→layout-id`修改十六进制Data值`07000000`)
 
 - Ethernet
   [LucyRTL8125Ethernet](https://github.com/Mieze/LucyRTL8125Ethernet)
