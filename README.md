@@ -49,7 +49,6 @@ B550M定制usb端口`USBPorts.kext` 2022.04.08
  [VoodooPS2Controller](https://github.com/RehabMan/OS-X-Voodoo-PS2-Controller) (如无需用到Ps2接口设备请酌情删除该`VoodooPS2Controller.kext`及`Kernel`该配置文件减少输入延迟，包括`UEFI→Drivers`内的`Ps2KeyboardDxe.efi`)
 
 - Audio
-
   [AppleALC](https://github.com/acidanthera/AppleALC) ( `alcid=7 `|本设置在`DeviceProperties→Add→PciRoot(0x0)/Pci(0x8,0x1)/Pci(0x0,0x4)→layout-id`修改十六进制Data值`07000000`)
 
 - Ethernet
