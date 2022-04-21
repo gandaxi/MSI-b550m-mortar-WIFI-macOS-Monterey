@@ -1,10 +1,10 @@
- [B550M迫击炮WIFI](https://github.com/gandaxi/MSI-b550m-mortar-WIFI-macOS-Monterey/releases/download/B550%E6%88%96X570%E4%B8%BB%E6%9D%BF/EFI-oc0.7.9-.6-12.+b550.WIFI+R.RX.A.+.USB.zip) 2022.03.26
+ [B550M迫击炮WIFI](https://github.com/gandaxi/MSI-b550m-mortar-WIFI-macOS-Monterey/releases/download/B550-X570-0.8.0/EFI-oc0.8.0-.6-12.+b550.WIFI+R.RX.A.+.USB.zip) 2022.04.21
  
- [B450M迫击炮MAX](https://github.com/gandaxi/MSI-b550m-mortar-WIFI-macOS-Monterey/releases/download/B450%E6%88%96%E4%BB%A5%E4%B8%8B%E4%B8%BB%E6%9D%BF/EFI.zip) 2022.03.26
+ [B450M迫击炮MAX](https://github.com/gandaxi/MSI-b550m-mortar-WIFI-macOS-Monterey/releases/download/B450%E6%88%96%E4%BB%A5%E4%B8%8B%E4%B8%BB%E6%9D%BF/EFI.zip) 2022.03.26 （暂时停留oc 0.7.9）
 
 更新：
 
-更新引导OC 0.7.9 稳定版
+B550M更新引导OC 0.8.0 正式版 2022.04.21
 
 B550M定制usb端口`USBPorts.kext` 2022.04.08
 
@@ -26,7 +26,7 @@ B550M定制usb端口`USBPorts.kext` 2022.04.08
 
 微星(MSI)MAG B550M 迫击炮 WIFI
 
-**OpenCore : 0.7.9**
+**OpenCore : 0.8.0**
 
 **macOS ：12.1 — 12.2.1 正式版**（暂不建议升级12.3及以上）
 
